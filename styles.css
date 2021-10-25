@@ -1,0 +1,36 @@
+* {
+    font-family:fantasy;
+}
+
+body {
+    margin: 2;
+}
+
+h1 {
+    background-color: darkorange;
+    color: darkviolet;
+    padding: 15px;
+    margin: 0;
+}
+
+div {
+    width:  700px;
+    background-image: url(image/photo-1599354706778-d99ebf3eab76.jpg);
+    background-position: 3in;
+    color:rgb(177, 212, 20)
+}
+
+img {
+    height: 225px;
+    margin: 20px;
+    border:purple 6px;
+}
+
+button {
+    border: none;
+    background-color: tomato;
+    color: purple;
+    border-radius: 15px;
+    box-shadow: royalblue;
+    box-sizing: 15px;
+}
